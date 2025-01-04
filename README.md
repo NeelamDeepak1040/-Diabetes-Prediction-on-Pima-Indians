@@ -1,1 +1,1 @@
-# -Diabetes-Prediction-on-Pima-Indians
+# Diabetes-Prediction-on-Pima-Indians
